@@ -166,7 +166,7 @@ class Settings {
         let settingsLauncher = {
             uuid: "1234",
             launcher: {
-                close: launcherDatabase?.launcher?.close || 'open-launcher'
+                close: launcherDatabase?.launcher?.close || 'close-launcher'
             }
         }
 
