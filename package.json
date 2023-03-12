@@ -1,11 +1,11 @@
 {
-    "name": "Apocalipcraft-Launcher",
-    "preductname": "Apocalipcraft Launcher",
-    "version": "1.1.1",
-    "description": "Launcher Mincraft por HypnoStudios",
+    "name": "HardCraft-Launcher",
+    "preductname": "HardCraft Launcher",
+    "version": "1.0.0",
+    "description": "Launcher Mincraft por UnachStudios",
     "main": "src/app.js",
-    "author": "HypnoStudios",
-    "url": "http://s922434499.onlinehome.mx/hypnostudios/apocalipcraft/launcher",
+    "author": "UnachStudios",
+    "url": "http://s922434499.onlinehome.mx/hypnostudios/hardmc/launcher",
     "engines": {
         "node": "^16.x.x"
     },
@@ -34,6 +34,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Hypnos0110/ApocalipcraftLauncher.git"
+        "url": "git+https://github.com/juniorel1974/HardCraftLauncher.git"
     }
 }
